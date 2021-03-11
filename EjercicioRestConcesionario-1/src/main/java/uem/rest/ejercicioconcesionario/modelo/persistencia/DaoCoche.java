@@ -5,5 +5,6 @@ import uem.rest.ejercicioconcesionario.modelo.entidad.Coche;
 
 @Repository
 public interface DaoCoche extends JpaRepository<Coche, Integer> {
-
+	
+	
 }
